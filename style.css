@@ -119,11 +119,11 @@ hr{
   transform: rotate(calc(45deg * var(--i))) translateY(0);
 }
 .hero{
-  /* background-image: url(https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg);
+  background-image: url(https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  box-shadow:inset 0 0 0 100vh rgba(0, 0, 0, 0.486); */
+  box-shadow:inset 0 0 0 100vh rgba(0, 0, 0, 0.486);
 }
 p{
   line-height: 27px ;
